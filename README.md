@@ -2,7 +2,9 @@
 ## Hello 👋
 
 Hey There, I'm Henry. I am a passionate software engineer looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development.
+
 <div style="border-bottom: 2px solid #61efb3;"></div>
+
 ## Blog ✍️
 
 Besides writing code, I like to write articles about things that I find interesting. You can read the articles at **[charly3pins.dev](https://charly3pins.dev)**
