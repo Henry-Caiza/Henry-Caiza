@@ -7,9 +7,9 @@ I'm Henry. I am a passionate software engineer based in Ecuador. looking for opp
 <div align="center">
   <br/>
   
-  [![Telegram](https://img.shields.io/badge/-TELEGRAM-61efb3?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/adamalston)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-61efb3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/henry-caiza-728021245/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-61efb3?style=for-the-badge&logo=gmail&logoColor=black)](mailto:henrypcv1995@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-61efb3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/henry-caiza-728021245/)
+ [![Twitter](https://img.shields.io/badge/-TELEGRAM-61efb3?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/adamalston)
 
   <br/>
 </div>
