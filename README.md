@@ -18,6 +18,8 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 <img  src="https://i.imgur.com/9Vnd6xs.png" alt="Typescript" height="50" /> &nbsp;
 <img  src="https://i.imgur.com/iHF8MSt.png" alt="Csharp" height="50"/> &nbsp; 
 <img  src="https://i.imgur.com/SKmmnsQ.png" alt="Java"  height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
 ##### Databases I use
 <img  src="https://i.imgur.com/wlXVCzm.png" alt="MySQL" height="50" /> &nbsp; 
@@ -49,9 +51,5 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 ##### Design tools I use
 <img  src="https://i.imgur.com/XK8u86F.png" alt="Figma" height="50" /> &nbsp; 
 <img  src="https://i.imgur.com/Dp8uKVs.png" alt="Photoshop" height="50"/> &nbsp;
-
-##### Some of the technologies I have worked with
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
 &nbsp;
