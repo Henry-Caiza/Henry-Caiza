@@ -15,26 +15,42 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 
 ##### Languages I use
 <img  src="https://i.imgur.com/khdhXJK.png" alt="JavaScript" height="50"/> &nbsp;
-<img  src="https://i.imgur.com/GlO9Tip.png" alt="NodeJS"  height="50"/> &nbsp;
-<img  src="https://i.imgur.com/u3e6ZJ2.png" alt="ExpressJS" height="50"/> &nbsp; 
-<img  src="https://i.imgur.com/ri9vVM7.png" alt="ReactJS"  height="50"/> &nbsp;
-<img  src="https://i.imgur.com/fXOI0Fx.png" alt="NextJS" height="50" /> &nbsp; 
-<img  src="https://i.imgur.com/0Ymogzp.png" alt="TailwindCSS" height="50" /> &nbsp;
-<img  src="https://i.imgur.com/syyzlC6.png" alt="Framer" height="50"/> &nbsp; 
-<img  src="https://i.imgur.com/f8uwcF1.png" alt="Redux"  height="50"/> &nbsp;
-<img  src="https://i.imgur.com/wlXVCzm.png" alt="MySQL" height="50" /> &nbsp; 
-<img  src="https://i.imgur.com/eowbCQB.png" alt="MongoDB" height="50" /> &nbsp;
-<img  src="https://i.imgur.com/ua16jTN.png" alt="PostgreSQL" height="50"/> &nbsp; 
-<img  src="https://i.imgur.com/2NsV0fc.png" alt="Prisma"  height="50"/> &nbsp;
-<img  src="https://i.imgur.com/XK8u86F.png" alt="Figma" height="50" /> &nbsp; 
 <img  src="https://i.imgur.com/9Vnd6xs.png" alt="Typescript" height="50" /> &nbsp;
 <img  src="https://i.imgur.com/iHF8MSt.png" alt="Csharp" height="50"/> &nbsp; 
 <img  src="https://i.imgur.com/SKmmnsQ.png" alt="Java"  height="50"/> &nbsp;
-<img  src="https://i.imgur.com/tWWUlo4.png" alt="Docker" height="50" /> &nbsp; 
+
+##### Databases I use
+<img  src="https://i.imgur.com/wlXVCzm.png" alt="MySQL" height="50" /> &nbsp; 
+<img  src="https://i.imgur.com/eowbCQB.png" alt="MongoDB" height="50" /> &nbsp;
+<img  src="https://i.imgur.com/ua16jTN.png" alt="PostgreSQL" height="50"/> &nbsp; 
+
+##### Frameworks and Libraries I use
+<img  src="https://i.imgur.com/u3e6ZJ2.png" alt="ExpressJS" height="50"/> &nbsp;
+<img  src="https://i.imgur.com/GlO9Tip.png" alt="NodeJS"  height="50"/> &nbsp;
+<img  src="https://i.imgur.com/ri9vVM7.png" alt="ReactJS"  height="50"/> &nbsp;
+<img  src="https://i.imgur.com/fXOI0Fx.png" alt="NextJS" height="50" /> &nbsp; 
+<img  src="https://i.imgur.com/f8uwcF1.png" alt="Redux"  height="50"/> &nbsp;
+<img  src="https://i.imgur.com/syyzlC6.png" alt="Framer" height="50"/> &nbsp; 
+<img  src="https://i.imgur.com/0Ymogzp.png" alt="TailwindCSS" height="50" /> &nbsp;
+
+##### Version Control I use
+<img  src="https://i.imgur.com/Wy6KyLE.png" alt="Git" height="50"/> &nbsp;
+
+##### ORM I use
+<img  src="https://i.imgur.com/2NsV0fc.png" alt="Prisma"  height="50"/> &nbsp;
+
+##### BaaS I use
 <img  src="https://i.imgur.com/OUjMIwz.png" alt="Supabase" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;
+
+##### Microservices and Containerization I use
+<img  src="https://i.imgur.com/tWWUlo4.png" alt="Docker" height="50" /> &nbsp; 
+
+##### Design tools I use
+<img  src="https://i.imgur.com/XK8u86F.png" alt="Figma" height="50" /> &nbsp; 
 <img  src="https://i.imgur.com/Dp8uKVs.png" alt="Photoshop" height="50"/> &nbsp;
-<img  src="https://i.imgur.com/Wy6KyLE.png" alt="Git" height="50"/> &nbsp;
+
+##### Some of the technologies I have worked with
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
