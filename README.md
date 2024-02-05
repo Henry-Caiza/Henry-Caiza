@@ -18,7 +18,7 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 <img  src="https://i.imgur.com/u3e6ZJ2.png" alt="ExpressJS" height="50"/> &nbsp; 
 <img  src="https://i.imgur.com/ri9vVM7.png" alt="ReactJS"  height="50"/> &nbsp;
 <img  src="https://i.imgur.com/fXOI0Fx.png" alt="NextJS" height="50" /> &nbsp; 
-<img  src="https://i.imgur.com/xvKOj7Y.png" alt="TailwindCSS"  width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
+<img  src="https://i.imgur.com/0Ymogzp.png" alt="TailwindCSS" height="50" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;
