@@ -13,13 +13,13 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 
 ## 🧰 &nbsp;My toolbox
 
+##### Languages I use
 <img  src="https://i.imgur.com/khdhXJK.png" alt="JavaScript" height="50"/> &nbsp;
 <img  src="https://i.imgur.com/GlO9Tip.png" alt="NodeJS"  height="50"/> &nbsp;
 <img  src="https://i.imgur.com/u3e6ZJ2.png" alt="ExpressJS" height="50"/> &nbsp; 
 <img  src="https://i.imgur.com/ri9vVM7.png" alt="ReactJS"  height="50"/> &nbsp;
 <img  src="https://i.imgur.com/fXOI0Fx.png" alt="NextJS" height="50" /> &nbsp; 
 <img  src="https://i.imgur.com/0Ymogzp.png" alt="TailwindCSS" height="50" /> &nbsp;
-
 <img  src="https://i.imgur.com/syyzlC6.png" alt="Framer" height="50"/> &nbsp; 
 <img  src="https://i.imgur.com/f8uwcF1.png" alt="Redux"  height="50"/> &nbsp;
 <img  src="https://i.imgur.com/wlXVCzm.png" alt="MySQL" height="50" /> &nbsp; 
@@ -32,8 +32,6 @@ Hey There, I'm Henry. I am a passionate software engineer looking for opportunit
 <img  src="https://i.imgur.com/SKmmnsQ.png" alt="Java"  height="50"/> &nbsp;
 <img  src="https://i.imgur.com/tWWUlo4.png" alt="Docker" height="50" /> &nbsp; 
 <img  src="https://i.imgur.com/OUjMIwz.png" alt="Supabase" height="50" /> &nbsp;
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;
 <img  src="https://i.imgur.com/Dp8uKVs.png" alt="Photoshop" height="50"/> &nbsp;
 <img  src="https://i.imgur.com/Wy6KyLE.png" alt="Git" height="50"/> &nbsp;
