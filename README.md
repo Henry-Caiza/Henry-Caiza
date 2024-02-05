@@ -4,11 +4,15 @@
 I'm Henry. I am a passionate software engineer based in Ecuador. looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development. Feel free to contact me any time. You can also check out my website [Henrycv.online](https://henrycv.online/).
 
 
-
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-61efb3?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/adamalston)
+<div align="center">
+  <br/>
+  
+  [![Telegram](https://img.shields.io/badge/-TELEGRAM-61efb3?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-61efb3?style=for-the-badge&logo=gmail&logoColor=black)](mailto:henrypcv1995@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-61efb3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/henry-caiza-728021245/)
 
+  <br/>
+</div>
 
 ## 🧰 &nbsp;My toolbox
 
