@@ -1,13 +1,13 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Henry. I am a passionate software engineer based in Ecuador. looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development. Feel free to contact me any time. You can also check out my website [Henrycv.online](https://henrycv.online/)
+I'm Henry. I am a passionate software engineer based in Ecuador. looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development. Feel free to contact me any time. You can also check out my website [Henrycv.online](https://henrycv.online/).
 
 
 <div align="center">
-<a href="https://www.facebook.com/henry.cv.9" ><img src="https://img.shields.io/facebook/follow/henry.cv.9.svg?style=social" /> </a>
-  <a href="https://twitter.com/HenryCV12" ><img src="https://img.shields.io/twitter/follow/HenryCV12.svg?style=social" /> </a>
-<a href="https://twitter.com/HenryCV12" ><img src="https://img.shields.io/twitter/follow/HenryCV12.svg?style=social" /> </a>
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 <br>
 </div>
 
