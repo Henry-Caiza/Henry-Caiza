@@ -1,7 +1,7 @@
 
 # 👋 &nbsp;Hi there
 
-I'm Henry. I am a passionate software engineer looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development.
+I'm Henry. I am a passionate software engineer based in Ecuador. looking for opportunities in technological or related institutions. During my studies, I have gained a solid foundation in software development, focusing on programming languages ​​such as javascript, java, c#. I have also developed skills in web design and development. Feel free to contact me any time. You can also check out my website [Henrycv.online](https://henrycv.online/)
 
 
 <div align="center">
